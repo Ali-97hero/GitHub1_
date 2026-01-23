@@ -6,3 +6,4 @@ secret.html
 // know that it is us, and also it helps us push the code into the github so what we'll do 
 // is we'll write  git config --global credential.username 'our username goes here'
 // after all of this we can push our project into our repository on GITHUB
+// TO ADD FURTHER CHANGES IN OUR REPOSITORY... First we will commit those changes like we usually do and then we'll do  git push origin main --set-upstream
