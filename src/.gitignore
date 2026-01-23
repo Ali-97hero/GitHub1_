@@ -1,5 +1,5 @@
 secret.html
-//to remove all the git changes from this folder youll have to use rm -rf .git
+// to remove all the git changes from this folder youll have to use rm -rf .git
 // TO PUSH OUR CODE ONTO THE GITHUB FIRST WE USE 
 // git remote add origin (we can also remove it by using git remote remove origin)  and then the link of our repository that we created on GITHUB
 // after that we check it by using   git remote   and then we give it our username so it 
@@ -7,3 +7,4 @@ secret.html
 // is we'll write  git config --global credential.username 'our username goes here'
 // after all of this we can push our project into our repository on GITHUB
 // TO ADD FURTHER CHANGES IN OUR REPOSITORY... First we will commit those changes like we usually do and then we'll do  git push origin main --set-upstream
+// ALSO BY USING git commit --amend WE CAN OVERWRITE OUR PREVIOUS COMMIT
